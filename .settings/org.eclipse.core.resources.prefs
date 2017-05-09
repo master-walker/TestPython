@@ -1,3 +1,6 @@
 eclipse.preferences.version=1
+encoding//src/Test/TestDict.py=utf-8
+encoding//src/Test/TestList.py=utf-8
+encoding//src/Test/TestTime.py=utf-8
 encoding//src/Test/test.py=utf-8
 encoding//src/db/testsqlalchemy.py=utf-8
