@@ -18,6 +18,6 @@ for fileName in os.listdir(path):
         os.rename(oldName,newName)
         moveFile=os.path.join(movePath,findMode)
         shutil.copyfile(newName,moveFile)
-#         print newName
+#         print newName  
         
         
