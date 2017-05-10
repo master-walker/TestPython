@@ -18,4 +18,5 @@ with open("../Test/TestTime.py","r") as f:
 # os.mkdir("D:/testProject/TestFile/testDir")
 print os.getcwd()
 os.rmdir("D:/testProject/TestFile/testDir")
+
     
