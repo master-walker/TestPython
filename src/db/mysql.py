@@ -35,6 +35,8 @@ def selectDB(sql):
         #执行Sql
         cursor.execute(sql)
         
+        
+        
         #获取结果
         return cursor.fetchall()
     
@@ -45,4 +47,8 @@ def selectDB(sql):
    
 if __name__=="__main__":
     print selectDB("select * from persons")
+    cursor=connectDB()
+    cursor.execute("select version()")
+    data=cursor.fetchall()
+    print data
     
