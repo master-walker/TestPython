@@ -14,3 +14,5 @@ print time.ctime(time.time())
 print time.mktime((2009, 2, 17, 17, 3, 38, 1, 48, 0))
 #格式化时间
 print time.strftime("%Y-%m-%d %H:%M:%S")
+
+
