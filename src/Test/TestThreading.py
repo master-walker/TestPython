@@ -13,10 +13,17 @@ def printInfo():
         print "currentTime:"+time.ctime(time.time())
         n=n+1
     
+def printInfo2():
+    n=0
+    while n<3:
+        print "currentTime2:"+time.ctime(time.time())
+        n=n+1   
     
 # printInfo()
 
 thread1=threading.Thread(target=printInfo())
-
+thread2=threading.Thread(target=printInfo2())
 thread1.start()
+thread2.start()
 thread1.join()
+thread2.join()
