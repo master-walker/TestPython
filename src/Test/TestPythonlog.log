@@ -1,0 +1,15 @@
+2017-05-18 17:13:00,516 fileLog.py[line:27] DEBUG e
+2017-05-18 17:13:00,516 fileLog.py[line:28] INFO info message
+2017-05-18 17:13:00,516 fileLog.py[line:29] WARNING warn message
+2017-05-18 17:13:00,516 fileLog.py[line:30] ERROR error message
+2017-05-18 17:13:00,516 fileLog.py[line:31] CRITICAL critical message
+2017-05-18 17:30:19,838 fileLog.py[line:27] DEBUG e
+2017-05-18 17:30:19,838 fileLog.py[line:28] INFO info message
+2017-05-18 17:30:19,838 fileLog.py[line:29] WARNING warn message
+2017-05-18 17:30:19,838 fileLog.py[line:30] ERROR error message
+2017-05-18 17:30:19,838 fileLog.py[line:31] CRITICAL critical message
+2017-05-18 17:30:54,812 fileLog.py[line:27] DEBUG e
+2017-05-18 17:30:54,812 fileLog.py[line:28] INFO info message
+2017-05-18 17:30:54,812 fileLog.py[line:29] WARNING warn message
+2017-05-18 17:30:54,812 fileLog.py[line:30] ERROR error message
+2017-05-18 17:30:54,812 fileLog.py[line:31] CRITICAL critical message
